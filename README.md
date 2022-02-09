@@ -8,4 +8,6 @@ CPPModule00: Namespaces, classes, member functions, stdio streams, initializatio
 
 CPPModule01: Memory allocation, pointers to members, references, switch statement.
 
-CPPModule02: Ad-hoc polymorphism, operator overloading and Orthodox Canonical class form
+CPPModule02: Ad-hoc polymorphism, operator overloading and Orthodox Canonical class form.
+
+CPPModule03: Inheritance
