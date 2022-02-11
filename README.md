@@ -11,3 +11,5 @@ CPPModule01: Memory allocation, pointers to members, references, switch statemen
 CPPModule02: Ad-hoc polymorphism, operator overloading and Orthodox Canonical class form.
 
 CPPModule03: Inheritance
+
+CPPModule04: Subtype polymorphism, abstract classes, interfaces
