@@ -13,3 +13,5 @@ CPPModule02: Ad-hoc polymorphism, operator overloading and Orthodox Canonical cl
 CPPModule03: Inheritance
 
 CPPModule04: Subtype polymorphism, abstract classes, interfaces
+
+CPPModule05: Repetition and Exceptions
