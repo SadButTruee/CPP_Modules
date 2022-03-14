@@ -15,3 +15,9 @@ CPPModule03: Inheritance
 CPPModule04: Subtype polymorphism, abstract classes, interfaces
 
 CPPModule05: Repetition and Exceptions
+
+CPPModule06: Casts
+
+CPPModule07: Templates
+
+CPPModule08: Templated containers, iterators, algorithms
